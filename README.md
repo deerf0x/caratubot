@@ -20,5 +20,5 @@ Para la funcionalidad de PDF es necesario tener instalado LibreOffice en el equi
 
 ## ⏳ Próximamente...
 - Conversión a PDF sin dependencia de LibreOffice.
-- Dockerfile para despliege en contenedores.
+- Dockerfile para despliegue en contenedores.
 - Correcciones de bugs 🐞
